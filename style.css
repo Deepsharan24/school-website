@@ -169,7 +169,7 @@ font-family: 'poppins',sans-serif;
 }
 
 .wall{
-    position:relative;
+    position:absolute;
     margin: 2px;
     padding: 0;
 }
