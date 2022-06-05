@@ -169,6 +169,7 @@ font-family: 'poppins',sans-serif;
 }
 
 .wall{
+    position:relative;
     margin: 2px;
     padding: 0;
 }
